@@ -1,3 +1,4 @@
 # TG-WSPIS
-test
-test2
+## 🔓 Code & Dataset
+
+The code is currently being organized and will be released soon.
